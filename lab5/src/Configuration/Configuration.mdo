@@ -40,6 +40,7 @@
   </languages>
   <catalogs>Catalog.ндс</catalogs>
   <catalogs>Catalog.товары</catalogs>
+  <documents>Document.Документ22</documents>
   <documents>Document.поставщики</documents>
   <informationRegisters>InformationRegister.ндс</informationRegisters>
 </mdclass:Configuration>
