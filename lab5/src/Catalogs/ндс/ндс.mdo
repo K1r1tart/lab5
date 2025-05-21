@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="cfd37a70-f296-484e-b857-21991d2f4052">
+  <producedTypes>
+    <objectType typeId="fee0785f-78c2-4ce5-b439-f28c60c5b66b" valueTypeId="c75743fe-9599-4dd9-8873-a16f8da4635d"/>
+    <refType typeId="7816efc5-a1dc-4d15-a2c6-9920779750b5" valueTypeId="4bdb0abb-d9d4-4364-b605-58fa2fd4b95b"/>
+    <selectionType typeId="9285acb9-401e-4d5c-b60c-8d814cbc75d5" valueTypeId="ef0186e6-dcac-4c62-868a-b1c5317ba5eb"/>
+    <listType typeId="07d874a8-dc36-44c9-ad7f-d6cd2026befc" valueTypeId="c9751922-2b7c-4638-abe8-3165bb7e6359"/>
+    <managerType typeId="be583fff-7e4c-462b-8318-36c8c3dcb05b" valueTypeId="1b53c774-8a89-4cd2-b42a-58f2fcea9d0c"/>
+  </producedTypes>
+  <name>ндс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ндс</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ндс.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ндс.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

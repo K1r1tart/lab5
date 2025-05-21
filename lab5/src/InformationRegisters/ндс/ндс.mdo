@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45381011-9304-4fb6-a57d-961daa4657d3">
+  <producedTypes>
+    <selectionType typeId="14919cc0-8a0a-426f-99a1-58651c53e985" valueTypeId="385fdc7c-c344-4f85-8c18-b6608205861d"/>
+    <listType typeId="6a8db452-fadc-4bd0-800b-71cb73e4cd2d" valueTypeId="cd0514b1-18a0-4b25-8c56-38df2c6c2d2d"/>
+    <managerType typeId="641e8d28-506f-49e0-8b1a-eab76623d294" valueTypeId="6800ba54-8c3a-44e7-80d2-cd325055766b"/>
+    <recordSetType typeId="8d72f846-d815-438c-af4f-578c0388223c" valueTypeId="1da79e48-9cc9-4c66-b93d-150173bfc705"/>
+    <recordKeyType typeId="1eadeab5-c424-49a8-821f-845cb6c7f7f9" valueTypeId="f53dcc2c-7e1b-4577-abd7-fada45f8c895"/>
+    <recordType typeId="e00b9f45-b7bd-45fe-80a7-eb7c94c58f87" valueTypeId="7e658eb5-9406-448d-aadc-5d0506608459"/>
+    <recordManagerType typeId="758410e3-400a-4286-be23-bd11421ac585" valueTypeId="f3c5bcf1-32f6-477c-b314-d6670cbb6cad"/>
+  </producedTypes>
+  <name>ндс</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ндс</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>

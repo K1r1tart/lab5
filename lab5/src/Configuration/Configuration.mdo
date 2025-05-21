@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2d8cff2c-3a44-4788-8c26-3737ddf8762b">
+  <name>lab5</name>
+  <synonym>
+    <key>ru</key>
+    <value>Lab5</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="0d9476ab-b210-4795-aeec-90315c03b023"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="f31bc61d-cfcb-41fd-a0b7-3ff62b3f795b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="62f2ef9a-4954-4140-bc7e-7e6b0d795f2b"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="abc65a4e-4896-42c2-bd58-66b8ea29545d"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="2786f47b-c008-4248-a865-4c56ac07f0be"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="c4f23d4f-01c2-4284-8a73-a1c8f38bbd4d"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="cdb5f811-6591-405a-aa21-af01941681fe"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.25</compatibilityMode>
+  <languages uuid="4d54ac47-cddd-4689-a755-609180930b8c">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.ндс</catalogs>
+  <catalogs>Catalog.товары</catalogs>
+  <documents>Document.поставщики</documents>
+  <informationRegisters>InformationRegister.ндс</informationRegisters>
+</mdclass:Configuration>
