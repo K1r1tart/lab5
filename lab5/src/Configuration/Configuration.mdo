@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.ндс</catalogs>
+  <catalogs>Catalog.Справочник22</catalogs>
   <catalogs>Catalog.товары</catalogs>
   <documents>Document.Документ22</documents>
   <documents>Document.поставщики</documents>
